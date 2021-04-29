@@ -1,7 +1,19 @@
 <channels>
 <channel>
-<name>[COLOR orangered][B]●[/B][/COLOR][COLOR white][B] Coletânias [/B][/COLOR]</name>
-<thumbnail>https://tinyurl.com/vft8opq</thumbnail>
+<name>[COLOR orangered][B]●[/B][/COLOR][COLOR white][B] Coletânias-Filmes [/B][/COLOR]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/Brunosfx89/DIVERSOS/main/C-Diversos-Coletania</externallink>
+<info></info>
+</channel>
+</channels>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<channels>
+<channel>
+<name>[COLOR orangered][B]●[/B][/COLOR][COLOR white][B] Coletânia-Desenhos-Infantis [/B][/COLOR]</name>
+<thumbnail></thumbnail>
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/Brunosfx89/DIVERSOS/main/C-Diversos-Coletania</externallink>
 <info></info>
